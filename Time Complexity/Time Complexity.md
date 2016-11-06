@@ -1,6 +1,4 @@
 #Deriving complexity of a algorithm
-This file gives a brief idea about how to calculate complexity of your algorithm.
-
 The usual method to calculate the complexity is to determine the cost of each line in your algorithm separately and then compute the overall complexity.
 But remember : only those lines in the algorithm where the number of times an operation is performed depends on the input value are the ones we have to watch out for. Other steps are usually considered asymptotically constant.
 Complexities are calculated for recursive and iterative algorithms in different ways.
