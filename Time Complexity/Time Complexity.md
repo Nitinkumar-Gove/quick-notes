@@ -5,7 +5,7 @@ The usual method to calculate the complexity is to determine the cost of each li
 
 *Complexities are calculated for recursive and iterative algorithms in different ways.*
 
-For recursive algorithms, generally, we form a recurrence relation which correctly represents the recursive calls and the base conditions, and then we solve them using any of these methods:
+For recursive algorithms, generally, we form **_a recurrence relation_** which correctly represents the recursive calls and the base conditions, and then we solve them using any of these methods:
 
 1. Substitution
 2. Recursive Tree method
@@ -13,9 +13,9 @@ For recursive algorithms, generally, we form a recurrence relation which correct
 4. Change of variable method
 5. Generating function method
 
-The method to be used depends on the type of recurrence relation you get. For most cases, first three methods suffice.For iterative algorithms, we usually watch out for the loop(s). 
+The method to be used depends on the type of recurrence relation you get. For most cases, first three methods suffice.
 
-*There are (basically) three types of template for a loop (only the usual ones here!):*
+For iterative algorithms, we usually **_watch out for the loop(s)_**. *There are (basically) three types of template for a loop (only the usual ones here!):*
 
 
 ###_Linear_
