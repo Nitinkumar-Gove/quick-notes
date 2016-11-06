@@ -10,9 +10,9 @@ This is a collection of some of the tough-easy questions which you might face in
 7. Implement binary search of a sorted array of integers
 8. Implement binary search in a rotated array (ex. {5,6,7,8,1,2,3})
 9. Use dynamic programming to find the first X prime numbers
-10. Write a function that prints out the binary form of an int
+10. Write a function that prints out the binary form of an int [ Answer 1 ](http://stackoverflow.com/questions/5263187/print-an-integer-in-binary-format-in-java) / [ Answer 2 - Recursive ](http://www.geeksforgeeks.org/binary-representation-of-a-given-number/)
 11. Implement parseInt
-12. Implement squareroot function
+12. Implement squareroot function0
 13. Implement an exponent function (bonus: now try in log(n) time)
 14. Write a multiply function that multiples 2 integers without using *
 15. HARD: Given a function rand5() that returns a random int between 0 and 5, implement rand7()
