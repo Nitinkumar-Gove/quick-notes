@@ -1,7 +1,7 @@
 #Interview Questions
 This is a collection of some of the tough-easy questions which you might face in technical interview. 
 ##General
-1. Find the most frequent integer in an array.
+1. Find the most frequent integer in an array. [ Answer1 - O(n^2) ](http://stackoverflow.com/questions/8545590/find-the-most-popular-element-in-int-array) / [Answer2 - O(n) ](http://www.geeksforgeeks.org/find-the-maximum-repeating-number-in-ok-time/)
 2. Find pairs in an integer array whose sum is equal to 10 (bonus: do it in linear time)
 3. Given 2 integer arrays, determine of the 2nd array is a rotated version of the 1st array. Ex. Original Array A={1,2,3,5,6,7,8} Rotated Array B={5,6,7,8,1,2,3}
 4. Write fibbonaci iteratively and recursively (bonus: use dynamic programming)
