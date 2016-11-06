@@ -79,5 +79,12 @@ Now, if some line contains a function call, then, you must compute the complexit
 
 For the overall complexity of an (iterative) algorithm, we add the complexities of each step and the one which is asymptotically largest (in the sum) is the overall complexity of an algorithm.
 
+#Life made easy - Checkout these complexity charts 
+![Big-O Complexity Chart] (https://github.com/Nitinkumar-Gove/QuickNotes/blob/master/Time%20Complexity/images/big%20o%20complexity%20chart.png)
+
+![Complexity of Different Operations on Different Data Structures](https://github.com/Nitinkumar-Gove/QuickNotes/blob/master/Time%20Complexity/images/data%20structure%20operations%20and%20time%20complexity.PNG)
+
+![Complexity of Sorting Algorithms](https://github.com/Nitinkumar-Gove/QuickNotes/blob/master/Time%20Complexity/images/array%20sorting%20operationis.png)
+
 ##References
 1. [Ref 1](https://www.quora.com/What-are-some-easy-ways-to-understand-and-calculate-the-time-complexity-of-algorithms)
