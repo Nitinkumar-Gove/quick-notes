@@ -78,3 +78,6 @@ If there are multiple statements in a loop body, we consider only the statement 
 Now, if some line contains a function call, then, you must compute the complexity of that function call first. If that call is in a loop, then multiply its complexity with the loop’s complexity.
 
 For the overall complexity of an (iterative) algorithm, we add the complexities of each step and the one which is asymptotically largest (in the sum) is the overall complexity of an algorithm.
+
+##References
+1. [Ref 1](https://www.quora.com/What-are-some-easy-ways-to-understand-and-calculate-the-time-complexity-of-algorithms)
