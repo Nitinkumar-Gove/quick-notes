@@ -1,7 +1,9 @@
 #Deriving complexity of a algorithm
 The usual method to calculate the complexity is to determine the cost of each line in your algorithm separately and then compute the overall complexity.
-But remember : only those lines in the algorithm where the number of times an operation is performed depends on the input value are the ones we have to watch out for. Other steps are usually considered asymptotically constant.
-Complexities are calculated for recursive and iterative algorithms in different ways.
+
+**But remember** : only those lines in the algorithm where the number of times an operation is performed depends on the input value are the ones we have to watch out for. Other steps are usually considered asymptotically constant.
+
+*Complexities are calculated for recursive and iterative algorithms in different ways.*
 
 For recursive algorithms, generally, we form a recurrence relation which correctly represents the recursive calls and the base conditions, and then we solve them using any of these methods:
 
@@ -12,9 +14,11 @@ For recursive algorithms, generally, we form a recurrence relation which correct
 5. Generating function method
 
 The method to be used depends on the type of recurrence relation you get. For most cases, first three methods suffice.For iterative algorithms, we usually watch out for the loop(s). 
-There are (basically) three types of template for a loop (only the usual ones here!):
 
-###Linear
+*There are (basically) three types of template for a loop (only the usual ones here!):*
+
+
+###_Linear_
 for(i = 1; i <= n; i = i + c)
     
     //some statement;
@@ -24,9 +28,9 @@ for(i = n; i >= 1; i = i - c)
     
     //some statement;
 
-Complexity = [(n−1)÷c]+1=θ(n)[(n−1)÷c]+1=θ(n)
+**Complexity = [(n−1)÷c]+1=θ(n)[(n−1)÷c]+1=θ(n)**
 
-###Logarithmic
+###_Logarithmic_
 for(i = 1; i <= n; i = i * c)
     
     //some statement;
@@ -37,9 +41,9 @@ for(i = n; i >= 1; i = i / c)
     
     //some statement;
 
-Complexity = [logc(n)]+1=θ(log(n))[logc⁡(n)]+1=θ(log⁡(n))
+**Complexity = [logc(n)]+1=θ(log(n))[logc⁡(n)]+1=θ(log⁡(n))**
 
-###Log-logarithmic
+###_Log-logarithmic_
 for(i = c; i <= n; i = i ^ c)
     
     //some statement;
@@ -49,7 +53,7 @@ for(i = n; i >= c; i = i ^ (1/c))
     
     //some statement;
 
-Complexity = [logclogc(n)]+1=θ(loglog(n))[logc⁡logc⁡(n)]+1=θ(log⁡log⁡(n))
+**Complexity = [logclogc(n)]+1=θ(loglog(n))[logc⁡logc⁡(n)]+1=θ(log⁡log⁡(n))**
 
 If there are nested loops, start with the outermost loop, and compute its complexity first using this approach. Then, you have to carefully observe the next inner loop.
 
@@ -80,6 +84,7 @@ Now, if some line contains a function call, then, you must compute the complexit
 For the overall complexity of an (iterative) algorithm, we add the complexities of each step and the one which is asymptotically largest (in the sum) is the overall complexity of an algorithm.
 
 #Life made easy - Checkout these complexity charts 
+
 ![Big-O Complexity Chart] (https://github.com/Nitinkumar-Gove/QuickNotes/blob/master/Time%20Complexity/images/big%20o%20complexity%20chart.png)
 
 ![Complexity of Different Operations on Different Data Structures](https://github.com/Nitinkumar-Gove/QuickNotes/blob/master/Time%20Complexity/images/data%20structure%20operations%20and%20time%20complexity.PNG)
@@ -87,4 +92,5 @@ For the overall complexity of an (iterative) algorithm, we add the complexities 
 ![Complexity of Sorting Algorithms](https://github.com/Nitinkumar-Gove/QuickNotes/blob/master/Time%20Complexity/images/array%20sorting%20operationis.png)
 
 ##References
-1. [Ref 1](https://www.quora.com/What-are-some-easy-ways-to-understand-and-calculate-the-time-complexity-of-algorithms)
+1. [Quora Answer - Easy to understand ](https://www.quora.com/What-are-some-easy-ways-to-understand-and-calculate-the-time-complexity-of-algorithms)
+2. [Big O Cheat Sheet](http://bigocheatsheet.com/)
