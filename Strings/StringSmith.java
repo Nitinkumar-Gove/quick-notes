@@ -1,7 +1,10 @@
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * This class provides different functions to operate on strings.
  * @author Nitinkumar Gove
- * @version 1.0
+ * @version 1.1
  */
 public class StringSmith {
 	
@@ -69,6 +72,49 @@ public class StringSmith {
 				return false;
 			charpresent[val] = true;
 		}
+		return true;
+	}
+	
+	/**
+	 *  check if two strings are anagrams of each other
+	 *  @param s1 : string 1 
+	 *  @param s2 : string 2
+	 *  @notes This can be done in linear time using constant space.
+	 *  This code does not sort and hence can be done using simple loops. 
+	 *  The overall runtime is O(n) and overall space is O(1) -- hence being the fastest solution. 
+	 *  The number of elements you can have in the hash map is constant.
+	 */
+	public static boolean areAnagrams(String s1, String s2)
+	{
+		// return false if two strings have different lengths
+		if(s1.length() != s2.length() )
+			return false;
+		
+		Map<String, Integer> allchars = new HashMap<>();
+		
+		char charset[];
+		
+		// load all characters from string 1 into the hashmap
+		charset= s1.toCharArray();
+		for(char c : charset)
+		{
+			allchars.put(Character.toString(c), 0);
+		}
+		
+		// load all characters from string 2 into the hashmap
+		charset = s2.toCharArray();
+		for(char c : charset)
+		{
+			allchars.put(Character.toString(c), 0);
+		}
+		
+		// check for value for each key
+		for(Map.Entry<String, Integer> m : allchars.entrySet())
+		{
+		      if(m.getValue() > 1 )
+		    	  return false;
+		}
+		
 		return true;
 	}
 	
