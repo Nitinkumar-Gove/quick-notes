@@ -10,3 +10,7 @@ This a repository of short important notes prepared to help you face software en
 6. Cheat Sheets for different programming languages
 
 P.S - This repository is updated weekly.
+
+Web Sources:
+1. [ Leetcode ] (https://leetcode.com/problemset/algorithms/)
+2. [ Geek for Geeks ] ( http://www.geeksforgeeks.org/ )
