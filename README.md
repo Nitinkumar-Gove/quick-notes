@@ -11,6 +11,10 @@ This a repository of short important notes prepared to help you face software en
 
 P.S - This repository is updated weekly.
 
-Web Sources:
-1. [ Leetcode ] (https://leetcode.com/problemset/algorithms/)
-2. [ Geek for Geeks ] ( http://www.geeksforgeeks.org/ )
+__Web Sources:__
+
+1. [Leetcode] (https://leetcode.com/problemset/algorithms/)
+
+2. [Geek for Geeks] (http://www.geeksforgeeks.org/)
+
+3. [Project Euler] (https://projecteuler.net/archives)
