@@ -1,20 +1,6 @@
-# QuickNotes
-This a repository of short important notes prepared to help you face software engineer interviews. 
+#AWS - Amazon Web Services
+This folder contains different material which you can use to start learning AWS.
 
-#Contents
-1. Strings
-2. Linked List
-3. Graph / Trees
-4. Hashing / Hash maps
-5. Time complexity
-6. Cheat Sheets for different programming languages
-
-P.S - This repository is updated weekly.
-
-__Web Sources:__
-
-1. [Leetcode] (https://leetcode.com/problemset/algorithms/)
-
-2. [Geek for Geeks] (http://www.geeksforgeeks.org/)
-
-3. [Project Euler] (https://projecteuler.net/archives)
+##References
+1. [ What is Amazon EC2? ](https://www.youtube.com/watch?v=Px7ZPLq4AOU)
+2. [ What is Amazon S3? ](https://www.youtube.com/watch?v=PBPzGMINscQ)
