@@ -19,5 +19,5 @@ __Web Sources:__
 
 3. [Project Euler] (https://projecteuler.net/archives)
 
-4  [Awesome Git Repo for Interview Prep] (https://github.com/andreis/interview)
+4. [Awesome Git Repo for Interview Prep] (https://github.com/andreis/interview)
 
