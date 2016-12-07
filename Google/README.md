@@ -17,6 +17,7 @@
 14. Be quick to comprehend and solve problems.
 15. Enjoy __finding multiple solutions__ before choosing the best one.
 16. Seek out new ideas and methods of tackling a problem.
+17. Write down some sample inputs and try running your code on it. 
 
 ## Articles
 1. [Four Steps to Google, Without a Degree](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.c8lnfby8i)
@@ -26,6 +27,8 @@
 5. [Resources for preparing for Google Interview](http://itsallonesandzeroes.blogspot.de/2013/07/prepping-for-google-interview.html)
 6. [Google Interview Questions](https://www.interviewcake.com/google-interview-questions)
 7. [Passing the google intervieiw without CS degree](http://blog.teamtreehouse.com/passing-google-interview-without-computer-science-degree)
+8. [Amazon Interview Questions](https://www.interviewcake.com/amazon-interview-questions)
+9. [Facebook Interview Questions](https://www.interviewcake.com/facebook-interview-questions)
 
 
 
