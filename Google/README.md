@@ -7,6 +7,7 @@
 4. [Get that job at Google](http://steve-yegge.blogspot.co.uk/2008/03/get-that-job-at-google.html)
 5. [Resources for preparing for Google Interview](http://itsallonesandzeroes.blogspot.de/2013/07/prepping-for-google-interview.html)
 6. [Google Interview Questions](https://www.interviewcake.com/google-interview-questions)
+7. [Passing the google intervieiw without CS degree](http://blog.teamtreehouse.com/passing-google-interview-without-computer-science-degree)
 
 
 
