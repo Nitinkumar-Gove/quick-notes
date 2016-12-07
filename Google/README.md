@@ -30,6 +30,8 @@
 8. [Amazon Interview Questions](https://www.interviewcake.com/amazon-interview-questions)
 9. [Facebook Interview Questions](https://www.interviewcake.com/facebook-interview-questions)
 10. [Preparing for Google Interview](http://grouplens.org/blog/preparing-for-a-google-technical-interview/)
+11. [How to ace an algorithmic interview?](https://www.palantir.com/2011/09/how-to-ace-an-algorithms-interview/)
+12. [How to get well prepared for algorithm and data structure interviews? ](https://www.quora.com/How-can-one-be-well-prepared-to-answer-data-structure-algorithm-questions-in-interviews)
 
 ##Videos
 1. [Important Interview Tips from Google Recruiters ](https://www.youtube.com/watch?v=qc1owf2-220&list=PL5BFE1F0C739D5C24&index=2)
