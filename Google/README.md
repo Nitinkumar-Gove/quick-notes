@@ -1,5 +1,10 @@
 # Google Interview 
 
+## Master 3 Things - 
+1. Data Structures 
+2. Algorithms 
+3. System Design
+
 ##Technical Intgerview Tips
 1. Ask questions to get a better understanding of the problem.
 2. __Dont assume anything__ without checking once with the interviewer. 
@@ -18,6 +23,7 @@
 15. Enjoy __finding multiple solutions__ before choosing the best one.
 16. Seek out new ideas and methods of tackling a problem.
 17. Write down some sample inputs and try running your code on it. 
+18. Use the __"Rubber Duck Debugging"__
 
 ## Articles
 1. [Four Steps to Google, Without a Degree](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.c8lnfby8i)
