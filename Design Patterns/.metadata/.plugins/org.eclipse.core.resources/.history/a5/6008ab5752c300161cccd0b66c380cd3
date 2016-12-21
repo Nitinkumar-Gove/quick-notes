@@ -1,0 +1,7 @@
+
+public class Dabeli {
+	
+	private String description;
+	private double cost;
+
+}

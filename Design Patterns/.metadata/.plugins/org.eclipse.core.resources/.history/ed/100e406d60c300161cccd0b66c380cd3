@@ -1,0 +1,10 @@
+
+public class OffState implements State {
+
+	@Override
+	public void pressButton() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

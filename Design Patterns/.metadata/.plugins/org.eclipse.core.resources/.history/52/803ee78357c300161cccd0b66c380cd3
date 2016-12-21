@@ -1,0 +1,5 @@
+
+public interface Item {
+	public void printDescription();
+	public double getcost();
+}

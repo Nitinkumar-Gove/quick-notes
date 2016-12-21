@@ -1,0 +1,10 @@
+
+public class Switch {
+	
+	OnState onstate;
+	OffState offstate;
+	
+	State state;
+	
+
+}

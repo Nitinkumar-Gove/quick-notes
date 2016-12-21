@@ -1,0 +1,17 @@
+
+public class Follower extends Observer {
+	
+	private int value;
+	
+	public Follower(Leader leader){
+		this.leader = leader;
+		this.leader.startListening(this);
+	}
+
+	@Override
+	public void replicateScore() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,18 @@
+
+public class OffState implements State {
+	
+	Switch swtch;
+	
+	public OffState(Switch swtch) {
+		super();
+		this.swtch = swtch;
+	}
+
+
+	@Override
+	public void pressButton() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,19 @@
+/**
+ * @author Nitinkumar Gove
+ */
+public class Candidate extends Observer{
+	
+	int value = 0 ;
+	public Candidate(Leader leader){
+		this.leader = leader;	
+		leader.startListening(this);
+	}
+
+	@Override
+	public void replicateScore() {
+		// TODO Auto-generated method stub
+		value = leader.getValue();
+		System.out.println("Candidate Score -" + value);
+	}
+
+}

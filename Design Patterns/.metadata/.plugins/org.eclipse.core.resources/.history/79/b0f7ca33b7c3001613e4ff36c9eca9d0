@@ -1,0 +1,32 @@
+/**
+ * Proxy to manage contact info updates
+ * @author Nitinkumar Gove
+ *
+ */
+public class ContactProxy implements ProfileProxy {
+
+	Profile profile;
+	
+	public ContactProxy(Profile profile){
+		this.profile = profile;
+	}
+	
+	@Override
+	public void updateUsername(String username, String password) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void updatePassword(String newpassword, String currentpassword) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void updateEmailId(String emailid, String password) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

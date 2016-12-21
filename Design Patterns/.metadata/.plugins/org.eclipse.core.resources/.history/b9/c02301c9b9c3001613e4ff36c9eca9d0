@@ -1,0 +1,12 @@
+/**
+ * Simple test client
+ * @author Nitinkumar Gove
+ *
+ */
+public class Test {
+	public static void main(String ar[]){
+		
+		ProfileProxy profile = new ContactProxy();
+		profile.updateUsername("Umesh", "abc123LMN");
+	}
+}

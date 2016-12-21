@@ -1,0 +1,26 @@
+
+public class Dabeli implements Item {
+	
+	private String description;
+	private double cost;
+	
+	public Dabeli(String description, double cost) {
+		super();
+		this.description = description;
+		this.cost = cost;
+	}
+	
+	@Override
+	public void printDescription() {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public double getcost() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
+	
+
+}

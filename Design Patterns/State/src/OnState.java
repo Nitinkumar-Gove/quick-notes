@@ -1,0 +1,24 @@
+
+public class OnState implements State{
+	
+	Switch swtch;
+	
+	public OnState(Switch swtch) {
+		super();
+		this.swtch = swtch;
+	}
+
+	@Override
+	public void pressButton() {
+		// TODO Auto-generated method stub
+		swtch.setState(swtch.getOffstate());
+	}
+
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return "ON";
+	}
+	
+
+}

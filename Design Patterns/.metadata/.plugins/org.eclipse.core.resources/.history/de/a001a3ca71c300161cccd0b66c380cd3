@@ -1,0 +1,10 @@
+
+public class FrenchToEnglish implements IFrench {
+
+	@Override
+	public void coach() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

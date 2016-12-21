@@ -1,0 +1,19 @@
+
+public class OctalConverter implements Converter{
+
+	Converter converter =null;
+	@Override
+	public void convertNumber(int number, String totype) {
+		// TODO Auto-generated method stub
+		if(totype.equalsIgnoreCase("octal")){
+			System.out.println("Octal ("+number+")" + Integer.toOctalString(number));
+		}
+	}
+
+	@Override
+	public void setSuccessor(Converter converter) {
+		// TODO Auto-generated method stub
+		this.converter = converter;
+	}
+
+}

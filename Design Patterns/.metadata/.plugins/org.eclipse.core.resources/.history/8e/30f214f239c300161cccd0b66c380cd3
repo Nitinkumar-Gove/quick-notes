@@ -1,0 +1,25 @@
+import java.util.ArrayList;
+
+/**
+ * 
+ * @author Nitinkumar Gove
+ *
+ */
+public class Menu {
+	private String title;
+	ArrayList<Menu> submenus;
+	
+	public Menu(String title) {
+		super();
+		this.title = title;
+		this.submenus = new ArrayList<Menu>();
+	}
+	
+	public void addSubmenu(Menu menu){
+		submenus.add(menu);
+	}
+	
+	
+	
+
+}

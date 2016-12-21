@@ -1,0 +1,8 @@
+/**
+ * @author Nitinkumar Gove
+ */
+
+public abstract class Observer {
+	private Leader leader;
+	public abstract void replicateScore();
+}

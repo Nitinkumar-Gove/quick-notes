@@ -1,0 +1,10 @@
+/**
+ * 
+ * @author Nitinkumar Gove
+ *
+ */
+public class Menu {
+	private String title;
+	
+
+}

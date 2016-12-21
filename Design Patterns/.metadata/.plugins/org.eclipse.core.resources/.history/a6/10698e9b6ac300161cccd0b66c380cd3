@@ -1,0 +1,9 @@
+/**
+ * @author Nitinkumar Gove
+ */
+public class Test {
+	public static void main(String a[]){
+		Leader leader = new Leader();
+	}
+
+}

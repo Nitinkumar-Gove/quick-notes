@@ -1,0 +1,18 @@
+
+public class Switch {
+	
+	OnState onstate;
+	OffState offstate;
+	
+	State state = offstate;
+
+	public Switch() {
+		this.onstate = new OnState(this);
+		this.offstate = new OffState(this);
+		this.state = offstate;
+	}
+	
+	
+	
+
+}

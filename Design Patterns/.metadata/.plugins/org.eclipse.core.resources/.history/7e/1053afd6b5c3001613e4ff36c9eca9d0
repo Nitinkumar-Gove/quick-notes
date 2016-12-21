@@ -1,0 +1,19 @@
+/**
+ * User Profile Class
+ * @author Nitinkumar Gove
+ *
+ */
+public class Profile {
+	private  String username;
+	private String emailid;
+	private String password;
+	
+	public Profile(String username, String emailid, String password) {
+		super();
+		this.username = username;
+		this.emailid = emailid;
+		this.password = password;
+	}
+	
+	
+}

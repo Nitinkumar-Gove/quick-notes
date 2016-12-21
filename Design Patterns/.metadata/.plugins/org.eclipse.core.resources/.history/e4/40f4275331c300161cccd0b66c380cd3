@@ -1,0 +1,33 @@
+/**
+ * 
+ * @author Nitinkumar Gove
+ *
+ */
+public class Configuration {
+	
+	Configuration config = null;
+	
+	private String language;
+	private String timezone;
+	private String region;
+	
+	private Configuration(){
+		language = "english";
+		timezone = "GMT +5:50";
+		region = "APAC";
+	}
+	
+	public Configuration getConfiguration(){
+		if(config==null){
+			config = new Configuration();
+			return config;
+		}
+		else
+			return config;
+	}
+	
+	public void printConfiguration(){
+		
+	}
+
+}

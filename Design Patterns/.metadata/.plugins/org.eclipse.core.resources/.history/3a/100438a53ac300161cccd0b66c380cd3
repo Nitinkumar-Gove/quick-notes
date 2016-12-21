@@ -1,0 +1,15 @@
+/**
+ * 
+ * @author Nitinkumar Gove
+ *
+ */
+public class Test {
+	public static void main(String args[]){
+		Menu file = new Menu("File");
+		file.addSubmenu(new Menu("New File"));
+		file.addSubmenu(new Menu("Save File"));
+		file.addSubmenu(new Menu("Open File"));
+		file.addSubmenu(new Menu("Close File"));
+		
+	}
+}

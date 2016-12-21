@@ -1,0 +1,22 @@
+/**
+ * 
+ * @author Nitinkumar Gove
+ *
+ */
+public class Dabeli extends Item {
+	
+	private String description = "Dabeli";
+	
+	@Override
+	public void printDescription() {
+		// TODO Auto-generated method stub
+		super.printDescription();
+	}
+
+	@Override
+	public double cost() {
+		// TODO Auto-generated method stub
+		return 10;
+	}
+
+}

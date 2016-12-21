@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Topping"/>
+<fullyQualifiedTypeName name="Veggies"/>
+<fullyQualifiedTypeName name="ToppingFactory"/>
+<fullyQualifiedTypeName name="Configuration"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="ItemDecorator"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="FrenchToEnglish"/>
+<fullyQualifiedTypeName name="EnglishToFrench"/>
+<fullyQualifiedTypeName name="ProfileProxy"/>
+<fullyQualifiedTypeName name="PasswordProxy"/>
+<fullyQualifiedTypeName name="MessageStrategy"/>
+<fullyQualifiedTypeName name="Fancy"/>
+</qualifiedTypeNameHistroy>

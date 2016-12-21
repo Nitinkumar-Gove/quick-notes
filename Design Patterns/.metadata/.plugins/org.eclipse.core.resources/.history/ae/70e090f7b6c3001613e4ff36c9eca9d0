@@ -1,0 +1,26 @@
+/**
+ * Proxy to manage Password updates
+ * @author Nitinkumar Gove
+ *
+ */
+public class PasswordProxy implements ProfileProxy {
+
+	@Override
+	public void updateUsername(String username, String password) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void updatePassword(String newpassword, String currentpassword) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void updateEmailId(String emailid, String password) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

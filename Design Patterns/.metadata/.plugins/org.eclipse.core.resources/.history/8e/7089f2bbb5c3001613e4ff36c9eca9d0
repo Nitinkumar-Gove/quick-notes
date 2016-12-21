@@ -1,0 +1,12 @@
+/**
+ * User Profile Class
+ * @author Nitinkumar Gove
+ *
+ */
+public class Profile {
+	private  String username;
+	private String emailid;
+	private String password;
+	
+	
+}

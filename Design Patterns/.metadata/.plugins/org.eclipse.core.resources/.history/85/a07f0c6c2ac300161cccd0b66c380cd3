@@ -1,0 +1,10 @@
+
+public class Spinach implements Topping{
+
+	@Override
+	public void getPrice() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

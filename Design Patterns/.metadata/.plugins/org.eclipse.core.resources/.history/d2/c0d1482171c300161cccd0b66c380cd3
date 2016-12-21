@@ -1,0 +1,4 @@
+
+public interface IEnglish {
+	public void tlanguage();
+}

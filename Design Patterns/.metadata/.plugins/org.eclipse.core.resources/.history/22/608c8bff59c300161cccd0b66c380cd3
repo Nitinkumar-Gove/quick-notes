@@ -1,0 +1,10 @@
+/**
+ * 
+ * @author Nitinkumar Gove
+ *
+ */
+public abstract class Item {
+	private String description = "Item";
+	
+
+}

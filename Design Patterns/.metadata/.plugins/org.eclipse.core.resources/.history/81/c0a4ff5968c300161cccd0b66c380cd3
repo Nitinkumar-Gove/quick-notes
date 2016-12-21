@@ -1,0 +1,26 @@
+import java.util.ArrayList;
+
+/**
+ * @author Nitinkumar Gove
+ */
+public class Leader {
+	private int value;
+	private ArrayList<Observer> observer;
+
+	public Leader(){
+		this.value = 0; 
+		observer = new ArrayList<Observer>();		
+	}
+	
+	public void startListening(Observer observer){
+		observer.
+	}
+	
+	public int getValue() {
+		return value;
+	}
+
+	public void setValue(int value) {
+		this.value = value;
+	}
+}

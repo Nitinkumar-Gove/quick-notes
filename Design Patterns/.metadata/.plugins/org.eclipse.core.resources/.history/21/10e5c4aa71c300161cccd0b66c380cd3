@@ -1,0 +1,10 @@
+
+public class EnglishToFrench implements IEnglish{
+
+	@Override
+	public void teach() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

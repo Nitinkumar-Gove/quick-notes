@@ -1,0 +1,8 @@
+/**
+ * Converter Interface
+ * @author Nitinkumar Gove
+ *
+ */
+public class Converter {
+	public void convertNumber(int number, String totype);
+}

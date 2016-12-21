@@ -1,0 +1,36 @@
+import java.util.ArrayList;
+
+/**
+ * 
+ * @author Nitinkumar Gove
+ *
+ */
+public class Menu {
+	private String title;
+	ArrayList<Menu> submenus;
+	
+	public Menu(String title) {
+		super();
+		this.title = title;
+		this.submenus = new ArrayList<Menu>();
+	}
+	
+	public void addSubmenu(Menu menu){
+		submenus.add(menu);
+	}
+	
+	public void printMenuTitle(){
+		System.out.println("Title - " + this.title);
+	}
+	public void printMenuOptions(){
+		System.out.println("Main Menu " + this.title );
+		System.out.println("---- Sub Menus ---- " );
+		for(int i=0;i<submenus.size();i++)
+			submenus.get(i).printMenuTitle();
+		
+	}
+	
+	
+	
+
+}

@@ -1,0 +1,12 @@
+
+public class OnState implements State{
+	
+	
+
+	@Override
+	public void pressButton() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
