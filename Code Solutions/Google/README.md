@@ -42,6 +42,5 @@
 ##Videos
 1. [Important Interview Tips from Google Recruiters ](https://www.youtube.com/watch?v=qc1owf2-220&list=PL5BFE1F0C739D5C24&index=2)
 2. [Data Structure and Algorithms - By Tim Roughgarden](https://www.youtube.com/watch?v=6NKi7eCabzo&index=1&list=PLLH73N9cB21W1TZ6zz1dLkyIm50HylGyg)
-3. 
 
 
