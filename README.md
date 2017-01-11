@@ -1,6 +1,9 @@
 # QuickNotes
 This a repository of short important notes prepared to help you face software engineer interviews. 
 
+# Important Interview Questions
+[Must See Coding Questions - PLEASE DO THEM ALL ](https://github.com/Nitinkumar-Gove/QuickNotes/blob/master/Interview%20Questions/Technical-Interview-Questions-Set-1.md)
+
 #Contents
 1. Strings
 2. Linked List
