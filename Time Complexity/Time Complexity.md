@@ -1,3 +1,8 @@
+# Quick References
+1. [Time and space complexity analysis of recursive programs - using factorial](https://www.youtube.com/watch?v=ncpTxqK35PI)
+2. [Time complexity analysis - How to calculate running time?
+](https://www.youtube.com/watch?v=8syQKTdgdzc)
+
 #Deriving complexity of a algorithm
 The usual method to calculate the complexity is to determine the cost of each line in your algorithm separately and then compute the overall complexity.
 
