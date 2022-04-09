@@ -19,7 +19,7 @@ This a repository of short important notes prepared to help you face software en
 12. Improve the inefficient one
 13. Break down the problem to parts
 
-#Contents
+# Contents
 1. Strings
 2. Linked List
 3. Graph / Trees
