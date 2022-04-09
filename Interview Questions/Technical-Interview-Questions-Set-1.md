@@ -1,6 +1,6 @@
-#Interview Questions
+# Interview Questions 
 This is a collection of some of the tough-easy questions which you might face in technical interview. 
-##General
+## General
 1. Find the most frequent integer in an array. [ Answer1 - O(n^2) ](http://stackoverflow.com/questions/8545590/find-the-most-popular-element-in-int-array) / [Answer2 - O(n) ](http://www.geeksforgeeks.org/find-the-maximum-repeating-number-in-ok-time/)
 2. Find pairs in an integer array whose sum is equal to 10 (bonus: do it in linear time)
 3. Given 2 integer arrays, determine of the 2nd array is a rotated version of the 1st array. Ex. Original Array A={1,2,3,5,6,7,8} Rotated Array B={5,6,7,8,1,2,3}
@@ -18,7 +18,7 @@ This is a collection of some of the tough-easy questions which you might face in
 15. HARD: Given a function rand5() that returns a random int between 0 and 5, implement rand7()
 16. HARD: Given a 2D array of 1s and 0s, count the number of “islands of 1s” (e.g. groups of connecting 1s)
 
-##Strings
+## Strings
 1. Find the first non-repeated character in a String
 2. Reverse a String iteratively and recursively
 3. Determine if 2 Strings are anagrams
@@ -44,7 +44,7 @@ This is a collection of some of the tough-easy questions which you might face in
 12. HARD: Find the max distance between 2 nodes in a BST.
 13. HARD: Construct a BST given the pre-order and in-order traversal Strings
 
-##Stack, Queue and Heaps
+## Stack, Queue and Heaps
 1. Implement a stack with push and pop functions
 2. Implement a queue with queue and dequeue functions
 3. Find the minimum element in a stack in O(1) time
@@ -52,7 +52,7 @@ This is a collection of some of the tough-easy questions which you might face in
 5. Implement a binary min heap. Turn it into a binary max heap
 6. HARD: Implement a queue using 2 stacks
 
-##Linked List
+## Linked List
 1. Implement a linked list (with insert and delete functions)
 2. Find the Nth element in a linked list
 3. Remove the Nth element of a linked list
@@ -60,7 +60,7 @@ This is a collection of some of the tough-easy questions which you might face in
 5. Given a circular linked list, find the node at the beginning of the loop. Example: A →B →C → D →E →C, C is the node that begins the loop
 6. Check whether a link list is a palindrome
 
-##Sorting
+## Sorting
 1. Implement bubble sort
 2. Implement selection sort
 3. Implement insertion sort
@@ -68,7 +68,7 @@ This is a collection of some of the tough-easy questions which you might face in
 5. Implement quick sort
 6. Reverse a linked list iteratively and recursively
 
-##BSTs, Heaps, Search Algorithms, Sort Algorithms, Intersection, median, hashmap, caching system, basic algorithms
+## BSTs, Heaps, Search Algorithms, Sort Algorithms, Intersection, median, hashmap, caching system, basic algorithms
 
 1. Basic bitwise operations
 2. How do you program a min heap using Nodes
@@ -102,7 +102,7 @@ A question related to binary search, which is a kind of weak spot and I always a
 Input: find 5 in (15, 16, 19, 20, 25, 1, 3, 4, 5, 6, 10, 14) Output 8
 25. Implement a simple regular expression matching function
 
-##Other
+## Other
 
 1. Given a max-heap, how do I find the top k items?
 2. Find the border length created from a conglomeration of various 2D rectangles.
